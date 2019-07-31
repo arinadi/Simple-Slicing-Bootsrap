@@ -1,0 +1,10 @@
+.navbar {
+    margin:0;
+}
+#carousel-main {
+    margin-bottom: 40px
+}
+
+.media img {
+    max-width: 200px;
+}
